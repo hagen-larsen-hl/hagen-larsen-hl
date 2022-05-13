@@ -1,4 +1,4 @@
-### 👋 Hello, there! Happy you're here.
+## 👋 Hello, there! Happy you're here.
 
 ## 🚶‍♂️ The Person
 
