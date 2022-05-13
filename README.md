@@ -6,7 +6,7 @@ First and foremost, I'm a family man. I enjoy spending time with those I love mo
 
 ## 💻 The Software Engineer
 
-I'm a disciplined full-stack software engineer with a passion for doing things the right way. I have experience with Python, Java, C#, Kotlin, Javascript, and Typescript. Have developed web applications using Django and React. My professional experience is primarily with developing and customizing administrative software, and my personal projects are focussed in web and game development.
+I'm a disciplined full-stack software engineer with a passion for doing things the right way. I have experience with Python, Java, C#, Kotlin, Javascript, and Typescript. I have developed web applications using Django and React. My professional experience is primarily with developing and customizing administrative software, and my personal projects are focussed in web and game development.
 
 ## 📋 About my pinned repositories
  - [LocationBasedChat](https://github.com/hagen-larsen-hl/LocationBasedChat): A web application developed with [React](https://reactjs.org/) and [PostgreSQL](https://www.postgresql.org/), utilizing [Mapbox GL](https://www.mapbox.com/) and [web sockets](https://www.npmjs.com/package/@nestjs/websockets) that allows authenticated users to create chatrooms and chat with those near them. Published to the [web](https://hagenlarsenlocationchat.herokuapp.com/) with [Heroku](https://www.heroku.com/home)! *(Heroku hobby projects may take a few seconds to load - its worth the wait!)*
