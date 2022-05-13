@@ -1,14 +1,14 @@
-### Welcome! What took you so long?
+### Hi! Happy you're here.
 
-### Hagen, the person
+## 🚶‍♂️ Hagen, the person
 
 First and foremost, I'm a family man. I enjoy spending time with those I love most. I enjoy hiking and travelling, as well as basically any sport (mostly golf, volleyball, and basketball). I'm always willing to try new things.
 
-## Hagen, the Software Engineer
+## 💻 Hagen, the Software Engineer
 
-I'm a disciplined full-stack software engineer with a passion for doing things the right way. I have experience with Python, Java, C#, Kotlin, Javascript, and Typescript. Have developed web applications using Django and React.
+I'm a disciplined full-stack software engineer with a passion for doing things the right way. I have experience with Python, Java, C#, Kotlin, Javascript, and Typescript. Have developed web applications using Django and React. My professional experience is primarily with developing and customizing administrative software, and my personal projects are focussed in web and game development.
 
-## About my pinned projects
+## 📋 About my pinned projects
  - [LocationBasedChat](https://github.com/hagen-larsen-hl/LocationBasedChat): A web application developed with [React](https://reactjs.org/), utilizing [Mapbox GL](https://www.mapbox.com/) and [web sockets](https://www.npmjs.com/package/@nestjs/websockets) that allows authenticated users to create chatrooms and chat with those near them. Published to the [web](https://hagenlarsenlocationchat.herokuapp.com/)! *Heroku hobby projects may take a few seconds to load - its worth the wait!*
  - [ConsultationBlog](https://github.com/hagen-larsen-hl/ConsultationBlog)
  - [HustleWebApp](https://github.com/hagen-larsen-hl/HustleWebApp)
