@@ -1,32 +1,17 @@
-### Hi! Happy you're here.
+### 👋 Hello, there! Happy you're here.
 
-## 🚶‍♂️ Hagen, the person
+## 🚶‍♂️ The Person
 
 First and foremost, I'm a family man. I enjoy spending time with those I love most. I enjoy hiking and travelling, as well as basically any sport (mostly golf, volleyball, and basketball). I'm always willing to try new things.
 
-## 💻 Hagen, the Software Engineer
+## 💻 The Software Engineer
 
 I'm a disciplined full-stack software engineer with a passion for doing things the right way. I have experience with Python, Java, C#, Kotlin, Javascript, and Typescript. Have developed web applications using Django and React. My professional experience is primarily with developing and customizing administrative software, and my personal projects are focussed in web and game development.
 
 ## 📋 About my pinned projects
- - [LocationBasedChat](https://github.com/hagen-larsen-hl/LocationBasedChat): A web application developed with [React](https://reactjs.org/), utilizing [Mapbox GL](https://www.mapbox.com/) and [web sockets](https://www.npmjs.com/package/@nestjs/websockets) that allows authenticated users to create chatrooms and chat with those near them. Published to the [web](https://hagenlarsenlocationchat.herokuapp.com/)! *Heroku hobby projects may take a few seconds to load - its worth the wait!*
- - [ConsultationBlog](https://github.com/hagen-larsen-hl/ConsultationBlog)
- - [HustleWebApp](https://github.com/hagen-larsen-hl/HustleWebApp)
- - [BigBlueIsYou](https://github.com/hagen-larsen-hl/BigBlueIsYou)
- - [Centipede](https://github.com/hagen-larsen-hl/Centipede)
- - [ReactPractice](https://github.com/hagen-larsen-hl/ReactPractice)
-
-<!--
-**hagen-larsen-hl/hagen-larsen-hl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [LocationBasedChat](https://github.com/hagen-larsen-hl/LocationBasedChat): A web application developed with [React](https://reactjs.org/) and [PostgreSQL](https://www.postgresql.org/), utilizing [Mapbox GL](https://www.mapbox.com/) and [web sockets](https://www.npmjs.com/package/@nestjs/websockets) that allows authenticated users to create chatrooms and chat with those near them. Published to the [web](https://hagenlarsenlocationchat.herokuapp.com/) with [Heroku](https://www.heroku.com/home)! *(Heroku hobby projects may take a few seconds to load - its worth the wait!)*
+ - [BigBlueIsYou](https://github.com/hagen-larsen-hl/BigBlueIsYou): A replica of the 2017 Nordic Game Jam favorite [Baba Is You](https://hempuli.com/baba/), with a USU twist. This puzzle game requires you to manipulate the rules of the game and help Big Blue win!
+ - [HustleWebApp](https://github.com/hagen-larsen-hl/HustleWebApp): A web application developed with Django, utilizing Bootstrap CSS and styling. This application enables members of a community to come together and post/complete jobs for each other. Customers can post jobs for others to complete, and workers can claim jobs they're willing to perform. 
+ - [ConsultationBlog](https://github.com/hagen-larsen-hl/ConsultationBlog): A web application developed with [Django](https://www.djangoproject.com/), utilizing [Bootstrap](https://getbootstrap.com/) CSS and styling that enables a community of developers to interact. Authenticated users can post helpful articles and other users can engage in the comments. Published to the [web](https://consultationblog.herokuapp.com/) with Heroku!
+ - [Centipede](https://github.com/hagen-larsen-hl/Centipede): A replica of the classic arcade game, [Centipede](https://en.wikipedia.org/wiki/Centipede_(video_game). Rack up high scores by shooting down mushrooms and any of the pesky enemies.
+ - [ReactPractice](https://github.com/hagen-larsen-hl/ReactPractice): React app that helps demonstrate some of the main features of React.
